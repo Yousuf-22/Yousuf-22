@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-21071
-Fork on GitHub
-6533
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Yousuf Sayyed</h1>
 <h3 align="center">Hey I am Yousuf and i am currently in 2rd year Computer Engg Student, Pune,Maharashtra</h3>
 
