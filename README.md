@@ -1,10 +1,8 @@
-[![MasterHead]([https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Yousuf Sayyed</h1>
 <h3 align="center">Hey I am Yousuf and i am currently in 2rd year Computer Engg Student, Pune,Maharashtra</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousuf-22&label=Profile%20views&color=0e75b6&style=flat" alt="yousuf-22" /> </p>
-
-<p align="left"> <a href="https://twitter.com/y0usuf22" target="blank"><img src="https://img.shields.io/twitter/follow/y0usuf22?logo=twitter&style=for-the-badge" alt="y0usuf22" /></a> </p>
+<img align = "right" alt="coding" width="400" src"https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"> 
 
 - 🌱 I’m currently learning **JavaScript**
 
