@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousuf-22&label=Profile%20views&color=0e75b6&style=flat" alt="yousuf-22" /> </p>
 <!-- <img align = "right" alt="coding" width="400" src"https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">  -->
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **DS Algo :(**
 
