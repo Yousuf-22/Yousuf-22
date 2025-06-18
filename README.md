@@ -1,69 +1,76 @@
 <h1 align="center">Hi 👋, I'm Yousuff</h1>
-<h3 align="center">A Passionate Software Developer from India 🇮🇳</h3>
+<h3 align="center">🚀 Full-Stack Developer | 🧠 Problem Solver | 🌍 From India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yousuf22&label=Profile%20views&color=0e75b6&style=flat" alt="Yousuf22" />
+  <img src="https://komarev.com/ghpvc/?username=yousuf-22&label=Profile%20views&color=0e75b6&style=flat" alt="yousuf-22" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🔭 Currently building **[TinDev](#)** – a platform for developers to connect  
-- 🌱 Diving deep into **Backend Development** with Node.js & MongoDB  
-- 📚 Practicing **DSA** regularly – feel free to ask me anything!  
-- 📫 Reach me at: **yousufsayyed574@gmail.com**  
+- 🔭 Currently working on **TinDev** – a platform to connect developers
+- 🌱 Learning **Backend Development** (Node.js, MongoDB, Docker, AWS)
+- 💬 Ask me about **DSA, React, Node.js, MongoDB, System Design**
+- 📫 Reach me at: [yousufsayyed574@gmail.com](mailto:yousufsayyed574@gmail.com)
+- 🧩 Fun Fact: I love building things that solve real-world problems.
 
 ---
 
-## 🧑‍💻 Tech Stack & Tools
+## 🌐 Connect With Me
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="NGINX" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+  <a href="https://twitter.com/y0usuf22" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/yousuf22" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/yousuf22/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/yousuf22" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🌐 Let's Connect
+## 🧰 Tech Stack & Tools
 
 <p align="left">
-  <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:yousufsayyed574@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://hashnode.com/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,redux,html,css,tailwind,java,cpp,c,git,linux,nginx,postman,firebase,aws,docker"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yousuf22&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yousuf22&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yousuf-22&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yousuf-22&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousuf-22&layout=compact&theme=tokyonight" width="50%" />
 </p>
 
 ---
 
-## 🧠 Fun Fact
+## 🏆 Dev Journey
 
-> 💡 I enjoy solving real-world problems with code, and I believe in **learning by building**.
+- 🧠 120+ DSA questions solved in Year 1
+- ⚛️ Learned React.js, Node.js in Year 2
+- 💻 Built full-stack projects like **TinDev**
+- 📘 Now learning Java & Spring Boot
 
 ---
 
-_Thanks for visiting my profile! ⭐ Let's build something awesome together._
+## ✨ Featured Projects
 
+- 🔗 [TinDev](#) – A dev-connection platform with real-time chat, subscriptions, and matching
+- 🔧 [NetfixGPT](https://github.com/Yousuf-22/NetfixGPT) – A Netflix clone with AI integration
+
+---
+
+_Thanks for visiting! Drop a ⭐ if you like what I do._
