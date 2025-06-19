@@ -68,7 +68,7 @@
 
 ## ✨ Featured Projects
 
-- 🔗 [TinDev](#) – A dev-connection platform with real-time chat, subscriptions, and matching
+- 🔗 [TinDev](https://www.tindev.site/login) – A dev-connection platform with real-time chat, subscriptions, and matching
 - 🔧 [NetfixGPT](https://github.com/Yousuf-22/NetfixGPT) – A Netflix clone with AI integration
 
 ---
