@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-Stack Developer | 🧠 Problem Solver | 🌍 From India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yousuf-22&label=Profile%20views&color=0e75b6&style=flat" alt="yousuf-22" />
+  <img src="https://komarev.com/ghpvc/?username=yousuff22&label=Profile%20views&color=0e75b6&style=flat" alt="yousuff22" />
 </p>
 
 ---
