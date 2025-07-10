@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yousuff</h1>
-<h3 align="center">🚀 Full-Stack Developer | 🧠 Problem Solver | 🌍 From India</h3>
+<h3 align="center">🚀 Software Developer | 🧠 Problem Solver | 🌍 From India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yousuff22&label=Profile%20views&color=0e75b6&style=flat" alt="yousuff22" />
